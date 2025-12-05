@@ -226,12 +226,11 @@ me = CyberSecurityProfessional()
 
 <br>
 
-<!-- Snake Animation - Uses your own contribution graph! -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Animated Matrix Code Rain -->
+<img src="https://github.com/saichandram-sadhu/saichandram-sadhu/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<!-- Hacker Animation -->
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix Animation"/>
 
 </div>
 
