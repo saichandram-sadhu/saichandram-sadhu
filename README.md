@@ -151,16 +151,6 @@ me = CyberSecurityProfessional()
 
 <div align="center">
 
-<a href="https://github.com/saichandram-sadhu/AI-Intrusion-Detection-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=AI-Intrusion-Detection-System&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" />
-</a>
-
-<a href="https://github.com/saichandram-sadhu/Botnet-Detection-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=Botnet-Detection-System&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" />
-</a>
-
-</div>
-
 ### 🔥 Project Highlights
 
 | Project | Description | Tech Stack |
@@ -169,21 +159,19 @@ me = CyberSecurityProfessional()
 | 🕸️ **Botnet Detection** | Identifies malicious network behavior patterns | `Wireshark` `Python` `Traffic Analysis` |
 | 🧠 **Linux Memory Forensics** | Malware investigation through memory dump analysis | `Volatility` `Linux` `Forensics` |
 
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-</p>
+
+<!-- GitHub Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" />
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saichandram-sadhu&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saichandram-sadhu&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=saichandram-sadhu&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
 
 </div>
 
@@ -226,10 +214,7 @@ me = CyberSecurityProfessional()
 
 <br>
 
-<!-- Animated Matrix Code Rain -->
-<img src="https://github.com/saichandram-sadhu/saichandram-sadhu/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<!-- Hacker Animation -->
+<!-- Matrix Animation -->
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix Animation"/>
 
 </div>
@@ -240,4 +225,3 @@ me = CyberSecurityProfessional()
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+star+%E2%AD%90+my+repositories;Let's+secure+the+digital+world+together!+%F0%9F%94%90" alt="Typing SVG" />
 </div>
-
