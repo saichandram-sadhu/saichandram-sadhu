@@ -56,8 +56,8 @@
 </div>
 
 <div align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saichandram-sadhu&theme=dark&background=0d1117&ring=00b0f0&fire=00ff41&currStreakLabel=00b0f0&stroke=00b0f0&hide_border=true" alt="streak graph" />
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saichandram-sadhu&theme=radical&utcOffset=5.5" alt="productive time" />
 </div>
 
 <br>
