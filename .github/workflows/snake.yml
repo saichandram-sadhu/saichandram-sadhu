@@ -18,7 +18,7 @@ jobs:
     
     steps:
       - name: Generate Snake Game from GitHub Contribution Grid
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
