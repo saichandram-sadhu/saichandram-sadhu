@@ -115,13 +115,6 @@
 
 <br>
 
-<!-- 8. SUPPORT / CONNECT -->
-<div align="center">
-  <a href="https://www.buymeacoffee.com/saichandram">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</div>
-
 <!-- 9. FOOTER -->
 <div align="center">
   <br>
