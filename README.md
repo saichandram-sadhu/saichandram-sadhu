@@ -57,7 +57,7 @@
 
 <div align="center">
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=saichandram-sadhu&theme=dark&background=0d1117&ring=00b0f0&fire=00ff41&currStreakLabel=00b0f0&stroke=00b0f0&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saichandram-sadhu&theme=dark&background=0d1117&ring=00b0f0&fire=00ff41&currStreakLabel=00b0f0&stroke=00b0f0&hide_border=true" alt="streak graph" />
 </div>
 
 <br>
@@ -66,9 +66,7 @@
 <h3>🏆 OPERATIONAL MEDALS</h3>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saichandram-sadhu&theme=gitblock&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophy" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saichandram-sadhu&theme=radical" alt="profile details" />
 </div>
 
 ---
