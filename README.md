@@ -46,18 +46,18 @@
 <div align="center">
   <!-- Core Stats -->
   <a href="https://github.com/saichandram-sadhu">
-  <img src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&title_color=00b0f0&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&title_color=00b0f0&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=00b0f0&hide_border=true&count_private=true" height="180" alt="stats graph" />
   </a>
   
   <!-- Languages -->
   <a href="https://github.com/saichandram-sadhu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&title_color=00b0f0&text_color=c9d1d9&bg_color=0d1117&hide_border=true&icon_color=00ff41" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&title_color=00b0f0&text_color=c9d1d9&bg_color=0d1117&border_color=00b0f0&hide_border=true&icon_color=00ff41" height="180" alt="languages graph" />
   </a>
 </div>
 
 <div align="center">
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saichandram-sadhu&theme=dark&background=0d1117&ring=00b0f0&fire=00ff41&currStreakLabel=00b0f0&stroke=00b0f0&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=saichandram-sadhu&theme=dark&background=0d1117&ring=00b0f0&fire=00ff41&currStreakLabel=00b0f0&stroke=00b0f0&hide_border=true" alt="streak graph" />
 </div>
 
 <br>
