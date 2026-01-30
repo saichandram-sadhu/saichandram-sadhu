@@ -13,7 +13,7 @@
    <a href="https://github.com/saichandram-sadhu">
      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
    </a>
-   <a href="https://linkedin.com/in/saichandram-sadhu-9980a2357">
+   <a href="https://www.linkedin.com/in/saichandram-sadhu-9980a2357/">
      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="mailto:saichandram.sadhu.it@gmail.com">
@@ -105,108 +105,88 @@
 
 ---
 
-<!-- 4. LIVE GITHUB STATS DASHBOARD -->
-<h3>📊 LIVE TELEMETRY</h3>
+<!-- SOC ANALYTICS SECTION -->
+<h3>🔐 SOC ANALYST EXPERTISE</h3>
 
 <div align="center">
-  <!-- Core Stats -->
-  <a href="https://github.com/saichandram-sadhu">
-  <img src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&title_color=00b0f0&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=00b0f0&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="stats graph" />
-  </a>
+
+| **Domain** | **Skills & Technologies** |
+|:-----------|:--------------------------|
+| 🎯 **Threat Detection** | SIEM (Splunk, ELK Stack), IDS/IPS, Log Analysis, Anomaly Detection |
+| 🔍 **Incident Response** | Triage, Containment, Eradication, Recovery, Forensics |
+| 🛡️ **Security Monitoring** | Real-time Alerting, Event Correlation, Threat Hunting |
+| 📈 **Intelligence** | MITRE ATT&CK Framework, IOC Analysis, Threat Feeds |
+| 🚨 **Alert Management** | False Positive Reduction, Playbook Development, Automation |
+
+</div>
+
+---
+
+<!-- SYSADMIN DETAILS SECTION -->
+<h3>⚙️ SYSADMIN CAPABILITIES</h3>
+
+<div align="center">
+
+| **Area** | **Expertise** |
+|:---------|:--------------|
+| 🖥️ **Server Administration** | Linux (Ubuntu, RHEL, CentOS), Windows Server, Active Directory |
+| 🌐 **Network Management** | Firewall Configuration, VPN Setup, DNS/DHCP, Load Balancing |
+| ☁️ **Cloud Infrastructure** | AWS, Azure, GCP, Hybrid Cloud Deployments |
+| 🐳 **Containerization** | Docker, Kubernetes, Container Orchestration |
+| 🔄 **Automation & IaC** | Ansible, Terraform, Bash/PowerShell Scripting |
+| 📊 **Monitoring & Logging** | Prometheus, Grafana, ELK Stack, Nagios |
+| 💾 **Backup & Recovery** | Disaster Recovery Planning, Data Redundancy, Snapshots |
+| 🔧 **Virtualization** | VMware, Proxmox, Hyper-V |
+
+</div>
+
+---
+
+<!-- CERTIFICATIONS & LEARNING -->
+<h3>📜 AREAS OF FOCUS</h3>
+
+```yaml
+current_certifications_focus:
+  - Security Operations & Analysis
+  - Cloud Security Architecture
+  - Network Defense & Monitoring
+
+core_competencies:
+  - Incident Detection & Response
+  - Vulnerability Assessment
+  - System Hardening
+  - Infrastructure Automation
+  - Log Analysis & Correlation
   
-  <!-- Languages -->
+daily_operations:
+  - Monitor SIEM dashboards for security events
+  - Investigate and triage security alerts
+  - Maintain and patch critical infrastructure
+  - Automate repetitive security tasks
+  - Document incidents and procedures
+```
+
+---
+
+<!-- CONNECT WITH ME -->
+<h3>🤝 LET'S CONNECT</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/saichandram-sadhu-9980a2357/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/saichandram-sadhu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&title_color=00b0f0&text_color=c9d1d9&bg_color=0d1117&border_color=00b0f0&hide_border=true&icon_color=00ff41&cache_seconds=86400" height="180" alt="languages graph" />
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:saichandram.sadhu.it@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
-<div align="center">
-  <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saichandram-sadhu&theme=radical&utcOffset=5.5" alt="productive time" />
-</div>
-
 <br>
 
-<!-- 5. ACHIEVEMENT & BADGES SECTION -->
-<h3>🏆 OPERATIONAL MEDALS</h3>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saichandram-sadhu&theme=radical" alt="profile details" />
-</div>
-
----
-
-<!-- 6. FEATURED PROJECTS (Pinned Style) -->
-<h3>🚀 DEPLOYED MODULES</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/saichandram-sadhu/AI-POWERD-IDS">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=AI-POWERD-IDS&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true&cache_seconds=86400" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/saichandram-sadhu/portfolio">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=portfolio&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true&cache_seconds=86400" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/saichandram-sadhu/SOC-Alert-Noise-Killer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=SOC-Alert-Noise-Killer&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true&cache_seconds=86400" />
-        </a>
-      </td>
-      <td width="50%">
-         <!-- Placeholder for 4th Repo or Future Project -->
-         <a href="https://github.com/saichandram-sadhu">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=saichandram-sadhu&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true&cache_seconds=86400" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- 7. RECENT ACTIVITY -->
-<h3>⚡ NETWORK TRAFFIC (COMMITS)</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saichandram-sadhu&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00ff41&line=00ff41&point=ffffff" width="100%" />
-</div>
-
-<br>
-
-<!-- SNAKE ANIMATION -->
-<h3>🐍 CONTRIBUTION SNAKE</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<!-- TROPHY SECTION -->
-<h3>🏆 GITHUB TROPHIES</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saichandram-sadhu&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br>
-
-<!-- GITHUB STREAK -->
-<h3>🔥 STREAK STATS</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saichandram-sadhu&theme=radical&hide_border=true&background=0d1117&stroke=00b0f0&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak Stats"/>
+  <i>💡 Open to collaborations in Blue Team Security, SOC Operations, and Infrastructure Management!</i>
 </div>
 
 <br>
