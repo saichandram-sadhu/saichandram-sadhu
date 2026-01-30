@@ -111,12 +111,12 @@
 <div align="center">
   <!-- Core Stats -->
   <a href="https://github.com/saichandram-sadhu">
-  <img src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&title_color=00b0f0&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=00b0f0&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&title_color=00b0f0&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=00b0f0&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="stats graph" />
   </a>
   
   <!-- Languages -->
   <a href="https://github.com/saichandram-sadhu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&title_color=00b0f0&text_color=c9d1d9&bg_color=0d1117&border_color=00b0f0&hide_border=true&icon_color=00ff41" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&title_color=00b0f0&text_color=c9d1d9&bg_color=0d1117&border_color=00b0f0&hide_border=true&icon_color=00ff41&cache_seconds=86400" height="180" alt="languages graph" />
   </a>
 </div>
 
@@ -144,25 +144,25 @@
     <tr>
       <td width="50%">
         <a href="https://github.com/saichandram-sadhu/AI-POWERD-IDS">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=AI-POWERD-IDS&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=AI-POWERD-IDS&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true&cache_seconds=86400" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/saichandram-sadhu/portfolio">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=portfolio&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=portfolio&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true&cache_seconds=86400" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <a href="https://github.com/saichandram-sadhu/SOC-Alert-Noise-Killer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=SOC-Alert-Noise-Killer&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=SOC-Alert-Noise-Killer&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true&cache_seconds=86400" />
         </a>
       </td>
       <td width="50%">
          <!-- Placeholder for 4th Repo or Future Project -->
          <a href="https://github.com/saichandram-sadhu">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=saichandram-sadhu&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=saichandram-sadhu&theme=react&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&hide_border=true&cache_seconds=86400" />
         </a>
       </td>
     </tr>
