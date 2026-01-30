@@ -3,6 +3,9 @@
  <!-- 1. HERO SECTION -->
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:000000&height=180&section=header&text=SAICHANDRAM%20SADHU&fontSize=60&fontColor=00b0f0&animation=fadeIn&fontAlign=50&stroke=00b0f0&strokeWidth=2" width="100%"/>
  
+ <!-- Mona the Octocat Animation -->
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 700px">
+ 
  <!-- Typing Effect -->
  <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=SOC+Analyst+%7C+Systems+Administrator;Threat+Hunter+%7C+Infrastructure+Specialist;Building+Next-Gen+Intrusion+Detection+Systems;Managing+Critical+Infrastructure+%26+Cloud+Operations;Automating+Security+%26+IT+Operations" alt="Typing SVG" />
@@ -165,6 +168,51 @@ daily_operations:
   - Automate repetitive security tasks
   - Document incidents and procedures
 ```
+
+---
+
+<!-- GITHUB STATS & ACTIVITY -->
+<h3>📊 GITHUB ANALYTICS</h3>
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/saichandram-sadhu">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/saichandram-sadhu">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b0f0&text_color=c9d1d9"/>
+</a>
+
+<!-- GitHub Streak Stats -->
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saichandram-sadhu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00b0f0&ring=00ff41&fire=ff6600&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00b0f0&sideLabels=00b0f0&dates=c9d1d9" alt="GitHub Streak"/>
+
+<!-- GitHub Trophies -->
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=saichandram-sadhu&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<h3>🐍 CONTRIBUTION GRAPH</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saichandram-sadhu&bg_color=0d1117&color=00b0f0&line=00ff41&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
 ---
 
