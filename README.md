@@ -51,10 +51,10 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white" alt="Nmap"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-  <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white" alt="Snort"/>
+  <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logoColor=white" alt="Snort"/>
 </p>
 
 #### ⚙️ Systems Administration & Infrastructure
