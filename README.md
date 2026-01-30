@@ -4,7 +4,7 @@
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:000000&height=180&section=header&text=SAICHANDRAM%20SADHU&fontSize=60&fontColor=00b0f0&animation=fadeIn&fontAlign=50&stroke=00b0f0&strokeWidth=2" width="100%"/>
  
  <!-- Mona the Octocat Animation -->
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 700px">
  
  <!-- Typing Effect -->
  <a href="https://git.io/typing-svg">
@@ -178,10 +178,10 @@ daily_operations:
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/saichandram-sadhu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&text_color=c9d1d9"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b0f0&icon_color=00ff41&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/saichandram-sadhu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b0f0&text_color=c9d1d9"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b0f0&text_color=c9d1d9"/>
 </a>
 
 <!-- GitHub Streak Stats -->
