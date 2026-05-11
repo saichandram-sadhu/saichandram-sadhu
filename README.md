@@ -144,7 +144,7 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/saichandram-sadhu/threatvision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=threatvision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saichandram-sadhu&repo=threatvision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -191,16 +191,16 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/saichandram-sadhu/AI-POWERD-IDS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=AI-POWERD-IDS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saichandram-sadhu&repo=AI-POWERD-IDS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/saichandram-sadhu/PhishGuard-SOC-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=PhishGuard-SOC-Dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saichandram-sadhu&repo=PhishGuard-SOC-Dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/saichandram-sadhu/passfort">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=passfort&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saichandram-sadhu&repo=passfort&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/saichandram-sadhu/saichandram-terraform-public-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saichandram-sadhu&repo=saichandram-terraform-public-repo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saichandram-sadhu&repo=saichandram-terraform-public-repo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -212,15 +212,15 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/saichandram-sadhu">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=saichandram-sadhu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9&ring_color=00d4ff"/>
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saichandram-sadhu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9&ring_color=00d4ff"/>
 </a>
 <a href="https://github.com/saichandram-sadhu">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saichandram-sadhu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=22c55e&fire=f97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=saichandram-sadhu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=22c55e&fire=f97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9" alt="GitHub Streak"/>
 
 <br><br>
 
@@ -230,17 +230,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saichandram-sadhu/saichandram-sadhu/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br>
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saichandram-sadhu&bg_color=0d1117&color=00d4ff&line=22c55e&point=ffffff&area=true&hide_border=true&area_color=00d4ff" alt="Activity Graph" width="100%"/>
