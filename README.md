@@ -144,7 +144,7 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/saichandram-sadhu/threatvision">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saichandram-sadhu&repo=threatvision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
+  <img src="https://ghrs-saichandram.vercel.app/api/pin/?username=saichandram-sadhu&repo=threatvision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -191,16 +191,16 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/saichandram-sadhu/AI-POWERD-IDS">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saichandram-sadhu&repo=AI-POWERD-IDS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
+  <img src="https://ghrs-saichandram.vercel.app/api/pin/?username=saichandram-sadhu&repo=AI-POWERD-IDS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/saichandram-sadhu/PhishGuard-SOC-Dashboard">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saichandram-sadhu&repo=PhishGuard-SOC-Dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
+  <img src="https://ghrs-saichandram.vercel.app/api/pin/?username=saichandram-sadhu&repo=PhishGuard-SOC-Dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/saichandram-sadhu/passfort">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saichandram-sadhu&repo=passfort&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
+  <img src="https://ghrs-saichandram.vercel.app/api/pin/?username=saichandram-sadhu&repo=passfort&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/saichandram-sadhu/saichandram-terraform-public-repo">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saichandram-sadhu&repo=saichandram-terraform-public-repo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
+  <img src="https://ghrs-saichandram.vercel.app/api/pin/?username=saichandram-sadhu&repo=saichandram-terraform-public-repo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -212,10 +212,10 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/saichandram-sadhu">
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saichandram-sadhu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9&ring_color=00d4ff"/>
+  <img height="180px" src="https://ghrs-saichandram.vercel.app/api?username=saichandram-sadhu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=22c55e&text_color=c9d1d9&ring_color=00d4ff"/>
 </a>
 <a href="https://github.com/saichandram-sadhu">
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+  <img height="180px" src="https://ghrs-saichandram.vercel.app/api/top-langs/?username=saichandram-sadhu&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
 </a>
 
 <br><br>
